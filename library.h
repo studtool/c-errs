@@ -1,0 +1,4 @@
+#ifndef C_ERRS_LIBRARY_H
+#define C_ERRS_LIBRARY_H
+
+#endif //C_ERRS_LIBRARY_H
